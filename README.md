@@ -54,7 +54,7 @@ This project goes over how to create a new user account with the same settings a
 <table>
   <tr>
     <td><img src="https://imgur.com/BNT3CSX.png" height="100%" width="100%" /></td>
-    <td><img src=https://imgur.com/Qw4BsJF.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Qw4BsJF.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -96,7 +96,7 @@ This project goes over how to create a new user account with the same settings a
 <table>
   <tr>
     <td><img src="https://imgur.com/gwAXh7x.png" height="100%" width="100%" /></td>
-    <td><img src=https://imgur.com/fRZhUyk.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/fRZhUyk.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
