@@ -68,7 +68,7 @@ This project goes over how to create a new user account with the same settings a
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The organizational unit or folder the user you want to copy is.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The organizational unit or folder the user you want to copy is in.</b></span>  
 <br/>
 
 <table>
