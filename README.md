@@ -124,7 +124,7 @@ This project goes over how to create a new user account with the same settings a
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: New Shares.
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Finish.
     <br/>
     
   <img src="https://imgur.com/I9YHZYc.png" height="50%" width="50%"/>  
